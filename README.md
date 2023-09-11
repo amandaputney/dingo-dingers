@@ -1,8 +1,8 @@
 ![Alt text](public/image/header.png)
 
 # Baseball Team Tracker
-[Deplyed App](dingoes-945dae28db2c.herokuapp.com/
-)
+https://dingoes-945dae28db2c.herokuapp.com/
+
 
 The Dingoes are a new baseball team hoping to join the ranks of the Los Angeles Baseball Federation. This full-stack CRUD application will log the player's stats and record the team's activity.
 
